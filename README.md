@@ -1,7 +1,7 @@
 Planning:
 
   Name:
-  Locarion:
+  Location:
   ID:
   Issue Date:
   Quanitity:
