@@ -10,5 +10,5 @@
   
   Description:
   -------
-  Appearance: Voice: Temperament:
+  Appearance: Voice: Temperament: Other:
 
