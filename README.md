@@ -7,6 +7,8 @@
   Quanitity:
   Decimals:
   
+  
   Description:
+  -------
   Appearance: Voice: Temperament:
 
