@@ -1,4 +1,4 @@
-Planning:
+# Attributes
 
   Name:
   Location:
