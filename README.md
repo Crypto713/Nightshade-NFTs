@@ -6,4 +6,7 @@
   Issue Date:
   Quanitity:
   Decimals:
+  
   Description:
+  Appearance: Voice: Temperament:
+
