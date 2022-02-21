@@ -9,12 +9,12 @@
   
   
   Description:
-  -------
+ --
   Appearance: Voice: Temperament: Other:
-  -------
+  
   
   Updates:
-  
+  --
   02.21.2022:
   NFT Minting - Complete, 
   NFT Acquisitions - Complete, 
