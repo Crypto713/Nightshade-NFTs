@@ -16,7 +16,15 @@
   Updates:
  ---
  
- 11.21.2022
+ 12.04.2022
+ 
+ Proof of Existence/Identitity & DAO Member NFTs
+ 
+ Overview of NFTs: https://thenftbrief.com/types-of-nfts/
+ 
+ ---
+ 
+11.21.2022
 
 Created 713 Abstract Art
 
