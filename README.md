@@ -18,7 +18,9 @@
  
  12.04.2022
  
- Proof of Existence/Identitity & DAO Member NFTs
+ Proof of Existence/Identitity
+ 
+ DAO Member NFTs
  
  Overview of NFTs: https://thenftbrief.com/types-of-nfts/
  
